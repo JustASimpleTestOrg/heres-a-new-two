@@ -10,6 +10,8 @@ To show the latest content immediately, click anywhere (*i.e. blur*) out of the 
 
 ## Handy Markdown snippits
 
+## Handy Markdown snippits on repo
+
 ### Headings
 
 ## Use h2 for headings
